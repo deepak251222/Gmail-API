@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "154e322d-fe35-4ceb-8a16-0c760ca1a60f",
+		"name": "gmail",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24219652"
+	},
+	"item": [
+		{
+			"name": "getgmaildata",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8081/api/gmail",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"api",
+						"gmail"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
