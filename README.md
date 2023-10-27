@@ -21,7 +21,7 @@ Usage
 
 Use the API endpoints provided in the Postman collection to:
 
-get data :-localhost:8081/api/gmail
+get data :-http://localhost:8081/api/gmail
 o/p :- some output 
 [
     {
