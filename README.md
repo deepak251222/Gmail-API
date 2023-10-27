@@ -9,9 +9,8 @@ https://github.com/deepak251222/Gmail-API.git
 Doc Type collection 
 https://documenter.getpostman.com/view/24219652/2s9YRGw8K5
 
-Technologies Used Backend: Spring Boot (Java) Database: MySQL Tools: IntelliJ IDEA, POSTMAN, JSON
+Technologies Used Backend: Spring Boot (Java)  Tools: IntelliJ IDEA, POSTMAN, JSON
 
-Create a MySQL database and configure the database connection settings in application.properties. Run the application:
 
 Open the project in IntelliJ IDEA or your preferred Java IDE. Configure the application properties and database settings. Run the Spring Boot application. Postman Collection:
 
